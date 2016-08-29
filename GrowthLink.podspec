@@ -6,6 +6,6 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = "GrowthLink.framework"
     s.authors = ""
     s.license = ""
-    s.homepage = ""
-    s.summary = ""
+    s.homepage = "https://github.com/growthbeat/growthbeat-ios.git"
+    s.summary = "Test"
 end
